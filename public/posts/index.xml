@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Helix&#39;s Site</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Helix&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Oct 2023 19:59:58 -0500</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Mon, 02 Oct 2023 19:59:58 -0500</pubDate>
+      
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>Who am I? My name&amp;rsquo;s Cesar Menchaca, a college student with a passion for cybersecurity. I am starting this blog as to document the things I do and learn along my career. I do this in the hopes of sharing the things I learn with others and providing a free learning resource to those just as passionate as me.
+Background I am a first-generation computer science college student who works part-time as a SOC (Security Operations Center) analyst.</description>
+    </item>
+    
+  </channel>
+</rss>
