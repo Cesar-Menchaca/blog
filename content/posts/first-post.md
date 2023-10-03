@@ -1,7 +1,7 @@
 +++
 title = 'First Blog Post'
 date = 2023-10-02T19:59:58-05:00
-draft = true
+draft = false
 +++
 
 ## Who am I?
