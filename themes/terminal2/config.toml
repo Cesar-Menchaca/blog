@@ -1,0 +1,8 @@
+[params]
+  themeColor = "blue"
+  centerTheme = true
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = '0.90.0'
+    
